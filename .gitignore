@@ -1,0 +1,4 @@
+*.txt
+results/
+epub/
+progressBar.c
