@@ -1,4 +1,2 @@
 *.txt
-results/
-epub/
-progressBar.c
+chapter_split
